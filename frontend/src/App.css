@@ -1,0 +1,11 @@
+.div{
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+hr{
+  border-width: 3px;
+  border-color: black;
+}
